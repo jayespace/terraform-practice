@@ -3,8 +3,9 @@
 Based on the youtube lecture https://youtu.be/SLB_c_ayRMo
 
 Things I learned:
-- Resource management
-- Terraform files
-- Terraform commands
+- Resource Management
+- Terraform Files
+- Terraform Commands
 - Terraform Output
-- 
+- Target Resources
+- Terraform Variables
